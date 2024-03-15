@@ -25,3 +25,18 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## Learning Map
+
+### First DEMO
+-[ ] TODO LIST
+  - [ ] List Component
+    - [X] List (parent) template
+    - [X] Item (child) template
+    - [X] Manage State
+    - [X] Rendering Dynamic Data & Props
+    - [X] Conditional & Loops
+    - [X] Forms
+  - [ ] Metrics
+    - [X] Router

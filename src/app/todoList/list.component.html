@@ -1,0 +1,9 @@
+<ul>
+  @for (task of taskList; track task.name) {
+    <todo-list-item
+      [taskName]="task.name"
+      [taskDescription]="task.description"
+    ></todo-list-item>
+  }
+
+</ul>

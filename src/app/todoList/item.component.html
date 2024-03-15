@@ -1,0 +1,4 @@
+<li [class.completed]="isComplete">
+  <input type="checkbox" [checked]="isComplete" (click)="onCompleteTask()" > {{taskName}}
+  <p>{{taskDescription}}</p>
+</li>
